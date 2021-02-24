@@ -63,9 +63,9 @@
 # print("Months = {} Days = {}".format(*divmod(days, 30)))
 
 #练习4：圆的面积s=πr²
-s=0
-r=0
-print("please input r number：")
-r=float(input())
-s=3.14*r*r
-print("r={},s={:.2f}".format(r,s))
+# s=0
+# r=0
+# print("please input r number：")
+# r=float(input())
+# s=3.14*r*r
+# print("r={},s={:.2f}".format(r,s))
